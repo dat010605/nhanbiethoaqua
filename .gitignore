@@ -1,5 +1,4 @@
-# Dataset directories (quá lớn để đẩy lên GitHub)
-dataset/
+# Raw dataset archive (chỉ bỏ qua dataset_raw, giữ lại dataset đã tổ chức)
 dataset_raw/
 *.zip
 
